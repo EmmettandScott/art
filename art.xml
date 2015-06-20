@@ -52,12 +52,12 @@
                                               </block>
                                             </value>
                                             <next>
-                                              <block type="movement_right" id="137">
+                                              <block type="movement_stutter" id="176">
                                                 <next>
                                                   <block type="robot_delay" id="165" inline="true">
                                                     <value name="DELAY">
                                                       <block type="math_number" id="166">
-                                                        <field name="NUM">500</field>
+                                                        <field name="NUM">1000</field>
                                                       </block>
                                                     </value>
                                                   </block>
